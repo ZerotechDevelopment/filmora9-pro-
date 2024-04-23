@@ -12,7 +12,7 @@ This method may violate the terms of service of Filmora 9 and is provided for ed
 
 1. Clone or download this repository to your local machine.
 
-2. Follow the instructions provided in the `activation_instructions.txt` file to activate Filmora 9 to the Pro version.
+2. Follow the instructions provided in the `activation_instructions.md ` file to activate Filmora 9 to the Pro version.
 
 ### Note
 
