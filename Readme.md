@@ -21,7 +21,7 @@ This method may violate the terms of service of Filmora 9 and is provided for ed
 
 ### Credits
 
-This method was developed by the Zerotech team. Visit their website [here](https://www.zerotech.com) for more information.
+This method was developed by the Zerotech team.
 
 ### Support
 
